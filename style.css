@@ -1,0 +1,35 @@
+body{
+background: linear-gradient(#32a8a4,#fcfcfc,#521f94);
+}
+
+.heading{
+    font-size: 30px;
+    color:greenyellow;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+.object{
+    color: hotpink;
+}
+
+#webcam{
+    border:3px solid yellowgreen;
+    border-radius: 15px;
+    width: 350px;
+    height: 350px;
+}
+
+#snapshot{
+    border:3px solid green;
+    border-radius: 15px;
+    width: 350px;
+    height: 350px;
+}
+
+#Object_name{
+    color: yellow;
+}
+
+#Object_Accuracy{
+    color: yellow;
+}
